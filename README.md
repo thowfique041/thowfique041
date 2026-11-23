@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://thowfique041.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-thowfique041.github.io-3B82F6?style=for-the-badge&labelColor=0B1220" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/thowfiqur-bary-chowdhury-06b75b339/"><img src="https://img.shields.io/badge/LinkedIn-Connect-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1220" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/thowfiqur-bari-chowdhury-06b75b339/"><img src="https://img.shields.io/badge/LinkedIn-Connect-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1220" alt="LinkedIn" /></a>
   <a href="mailto:thowfiqurbarrychowdhury@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-3B82F6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1220" alt="Email" /></a>
 </p>
 
@@ -162,7 +162,7 @@ Interactive course for learning Git by seeing what each command changes.
 <p align="center">
   <a href="https://thowfique041.github.io/Portfolio"><b>View my portfolio →</b></a>
   &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/thowfiqur-bary-chowdhury-06b75b339/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/thowfiqur-bari-chowdhury-06b75b339/">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/thowfique041">GitHub</a>
 </p>
