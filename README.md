@@ -108,7 +108,7 @@ Coaching management and online learning platform for classes 6 to 12.
 
 - Admin, teacher, student, and guardian dashboards
 - Timed exams with automatic objective scoring and analytics
-- Courses, batches, live notebooks, notices, and real-time notifications
+- Courses, batches, notices, and live notebooks synced over Socket.IO
 
 `React` `TypeScript` `Express` `MongoDB` `Socket.IO` `Zod`
 
