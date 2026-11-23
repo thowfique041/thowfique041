@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Thowfiqur Bari Chowdhury, Full Stack Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#0F1B33"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#16243F" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="280" rx="14" fill="url(#bg)"/>
+  <rect width="1200" height="280" rx="14" fill="url(#grid)" opacity="0.55"/>
+  <rect x="64" y="70" width="4" height="140" rx="2" fill="#3B82F6"/>
+  <text x="96" y="104" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" letter-spacing="4" fill="#60A5FA">FULL STACK DEVELOPER</text>
+  <text x="96" y="158" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#E6EDF3">Thowfiqur Bari Chowdhury</text>
+  <text x="96" y="198" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" fill="#8B9BB4">Web applications · Backend systems · AI integration</text>
+  <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="15" fill="#5B6B85">
+    <text x="860" y="112">$ stack --primary</text>
+    <text x="860" y="140" fill="#93A4BF">TypeScript · React · Node.js</text>
+    <text x="860" y="166" fill="#93A4BF">MongoDB · PostgreSQL</text>
+    <text x="860" y="192" fill="#93A4BF">FastAPI · LangChain · Gemini</text>
+  </g>
+</svg>
