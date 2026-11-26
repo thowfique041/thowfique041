@@ -168,8 +168,8 @@ CRM covering the patient journey from lead inquiry to treatment, review, and ret
 ### GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thowfique041&show_icons=true&hide_rank=true&hide_border=true&custom_title=GitHub%20Stats&bg_color=0B1220&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thowfique041&layout=compact&langs_count=8&hide=Jupyter%20Notebook,HTML&hide_border=true&bg_color=0B1220&title_color=3B82F6&text_color=C9D1D9" alt="Most used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thowfique041&show_icons=true&hide_rank=true&hide_border=true&hide=stars,issues,contribs&show=prs_merged&custom_title=GitHub%20Stats&bg_color=0B1220&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thowfique041&layout=compact&langs_count=5&hide=Jupyter%20Notebook,HTML,CSS,Dockerfile&hide_border=true&bg_color=0B1220&title_color=3B82F6&text_color=C9D1D9" alt="Most used languages" />
 </p>
 
 ---
