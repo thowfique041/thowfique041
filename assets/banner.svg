@@ -16,8 +16,8 @@
   <text x="96" y="198" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" fill="#8B9BB4">Web applications · Backend systems · AI integration</text>
   <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="15" fill="#5B6B85">
     <text x="860" y="112">$ stack --primary</text>
-    <text x="860" y="140" fill="#93A4BF">TypeScript · React · Node.js</text>
-    <text x="860" y="166" fill="#93A4BF">MongoDB · PostgreSQL</text>
-    <text x="860" y="192" fill="#93A4BF">FastAPI · LangChain · Gemini</text>
+    <text x="860" y="140" fill="#93A4BF">TypeScript · React · Next.js</text>
+    <text x="860" y="166" fill="#93A4BF">NestJS · Express · PostgreSQL</text>
+    <text x="860" y="192" fill="#93A4BF">MongoDB · Redis · LangChain</text>
   </g>
 </svg>
