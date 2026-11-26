@@ -124,16 +124,16 @@ Cinematic travel guide to the hills, rivers and tea gardens of Sylhet.
 <tr>
 <td width="50%" valign="top">
 
-#### [NexusRAG](https://github.com/thowfique041/nexasRag)
-Multimodal RAG application for chatting with PDF documents.
+#### [Tripti Food](https://github.com/thowfique041/tripti-food)
+Mobile-first Bengali e-commerce storefront with an admin dashboard.
 
-- Hybrid dense + BM25 retrieval, multi-query, cross-encoder reranking
-- Image and table extraction with CLIP-based visual query routing
-- Conversation history, secure uploads, and grounded answers
+- Catalogue, cart, and checkout with COD, bKash, and Nagad options
+- Server-side price, delivery fee, and stock validation
+- JWT admin auth, rate limiting, Helmet, and automated tests
 
-`FastAPI` `LangChain` `ChromaDB` `React` `Gemini`
+`React` `TypeScript` `Express` `MongoDB` `Cloudinary`
 
-[Code](https://github.com/thowfique041/nexasRag)
+[Live demo](https://tripti-food.vercel.app) · [Code](https://github.com/thowfique041/tripti-food)
 
 </td>
 <td width="50%" valign="top">
@@ -158,8 +158,7 @@ CRM covering the patient journey from lead inquiry to treatment, review, and ret
 | Project | What it is | Stack | Links |
 | --- | --- | --- | --- |
 | **LateGenues** | Coaching and online learning platform with role dashboards and timed exams | React, Express, MongoDB, Socket.IO | [Code](https://github.com/thowfique041/lategenues) |
-| **Tripti Food** | Mobile-first Bengali e-commerce storefront with admin dashboard | React, Express, MongoDB | [Live](https://tripti-food.vercel.app) · [Code](https://github.com/thowfique041/tripti-food) |
-| **Webnion School & College** | Bilingual (English / বাংলা) school website with a demo admin panel | Next.js, Tailwind CSS | [Live](https://myschool-project-gold.vercel.app) · [Code](https://github.com/thowfique041/myschool-project) |
+| **NexusRAG** | Multimodal RAG app for chatting with PDFs, with hybrid retrieval and reranking | FastAPI, LangChain, ChromaDB, React | [Code](https://github.com/thowfique041/nexasRag) |
 | **Git Visual Lab** | Interactive Git course with a simulated terminal | React, Vite, Tailwind CSS | [Live](https://github-visual-guide.vercel.app) · [Code](https://github.com/thowfique041/github-visual-guide) |
 | **Multimodal PDF RAG** | CLIP embeddings for text and images with Gemini answers | Python, FAISS, LangChain | [Code](https://github.com/thowfique041/multimodal-pdf-rag) |
 | **YouTube RAG Chatbot** | Chat with any YouTube video using its transcript | LangChain, FAISS, Streamlit | [Code](https://github.com/thowfique041/youtubeChatBot) |
